@@ -1,7 +1,7 @@
 
 # What is DevOps
 
-So what is DevOps. DevOps is a way of working taht combines software development with operation teams to create and deliver this software with higher quality and delivered faster.
+So what is DevOps. DevOps is a way of working that combines software development with operation teams to create and deliver this software with higher quality and delivered faster.
 
 DevOps is a collaborative approach which encourages communication and cooperation between the two teams.
 
