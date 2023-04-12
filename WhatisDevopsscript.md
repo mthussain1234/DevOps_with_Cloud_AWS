@@ -24,5 +24,48 @@ The collaboration culture that DevOps uses, couple with innovation, influx of kn
 
 # What is cloud computing and AWS
 
+Cloud Computing is a form of technology that allows one to access computing resources over the internet.
+You can use these resources from a distant location, generally accessing a server, usually found in something called a data center. A data center is a facility which houses IT infrastructure to build run and deliver apps, it is also used to store data related to these apps and services. These data centers are usually managed by a cloud provider.
+
+AWS is an example of a provider/platform, and they offer a wide range of services from: computing power, storage, databases and more. AWS lets you easily deploy and manage your applications (and data), while AWS themselves focus on keeping the servers highly secure.
 
 # Benefits of cloud computing - use cases - who is using it
+
+* Cost-effective CapEx:
+  * Help businesses save money on capital expenditures
+    * Cloud Computing allows for businesses to avoid upfront costs
+    * Businesses pay for infrastructure on a subscription basis
+      * More effective in the Long Run
+      
+* Responsibility of firewall security
+  * This responsibility is shared between the cloud provider and user
+    * Provider will be securing the hardware and infrastructure
+    * User will be securing their own applications and data
+     * This shared responsibility can help manage security risks
+
+* Ease of Use
+  * Cloud computing is user friendly and easy to use
+  * Providers will give wide range of tools and serviecs accessible to all skill levels
+  * Allows for businesses to get up and running with cloud computing efficiently
+
+* Scalability
+  * Cloud computing allows for businesses to scale up easily and quickly by simple upgrading their subscription
+    * New subscriptions can mean increasing or decreasing computing resources when needed
+  * As opposed to on site, where scaling up is a costly process as expensive hardware is invested in.
+  * Working with the cloud is good for businesses where their needs are constantly changing.
+
+
+So who uses Cloud Computing and AWS:
+
+* Netflix - uses AWS to host and deliver content to the world, infrastructure is scalable to meet demands of userbase
+* NASA - uses AWS to store and analyse large amounts of data, these include satellite images and data about climate
+  * Allows for collaboration with researchers around the world
+* Airbnb - use AWS to manage its data, easily can scale infrastructure to handle times when traffic is very high
+  * This provides a user friendly experience
+
+
+
+
+
+
+
