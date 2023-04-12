@@ -9,6 +9,20 @@ these apps and services. These data centers are usually managed by a cloud provi
 
 ![image](Screenshot_32.jpg)
 
+* Once credentials are recieved, on GitBash move credentials to the .ssh directory.
+* We now use these credentials to log into AWS as shown below.
+
+![image](awsdd.png)
+
+Using `cd .ssh` to access the directory, `ls` to see the contents of the directory, then `cat <filename>.pem` to read the file.
+
+Once recieving the .pem file, we will open it via Notepad to allow us to progress to the next step.
+
+After copying the file we use `nano <filename>.pem` to create a new `.pem` file where we will copy and paste from the notepad file to our secure `.ssh` directory. All the while deleting the copy in Downloads. 
+
+![image](pem.png)
+
+
 ### Benefits of Cloud Computing?
 
 * Cost-effective CapEx:
