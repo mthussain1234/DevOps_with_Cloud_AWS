@@ -7,6 +7,8 @@ You can use these resources from a distant location, generally accessing a **ser
 A data center is a facility which houses IT infrastructure to build run and deliver apps, it is also used to store data related to 
 these apps and services. These data centers are usually managed by a cloud provider.
 
+![image](Screenshot_32.jpg)
+
 ### Benefits of Cloud Computing?
 
 * Cost-effective CapEx:
