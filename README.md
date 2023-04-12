@@ -43,6 +43,6 @@ Cloud computing allows businesses to be more flexible, the ability to scale reso
 
 Cloud computing provides DevOps teams with scalability, flexibility and automation.
 
-* Infrastructure as Code (IAC): Cloud platforms such as AWS allow for au
+* Infrastructure as Code (IAC): instead of manually setting up servers, networks and other components, you can use code to define their own infrastructure requirements and automate this process of deploying and managing their infrastructure
 
 ### How does it benefit the business?
