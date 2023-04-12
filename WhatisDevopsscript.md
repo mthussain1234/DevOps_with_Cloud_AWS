@@ -29,6 +29,9 @@ You can use these resources from a distant location, generally accessing a serve
 
 AWS is an example of a provider/platform, and they offer a wide range of services from: computing power, storage, databases and more. AWS lets you easily deploy and manage your applications (and data), while AWS themselves focus on keeping the servers highly secure.
 
+![image](https://user-images.githubusercontent.com/129314018/231513878-1b2631d8-0395-47cf-ab93-6de06fb3fbb6.png)
+
+
 # Benefits of cloud computing - use cases - who is using it
 
 * Cost-effective CapEx:
