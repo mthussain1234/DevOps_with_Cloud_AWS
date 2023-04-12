@@ -44,5 +44,12 @@ Cloud computing allows businesses to be more flexible, the ability to scale reso
 Cloud computing provides DevOps teams with scalability, flexibility and automation.
 
 * Infrastructure as Code (IAC): instead of manually setting up servers, networks and other components, you can use code to define their own infrastructure requirements and automate this process of deploying and managing their infrastructure
+* CI/CD (Continuous integration and delivery): cloud computing allows the CI/CD pipeline to be automated, which in turn allows for continuous testing, integration and deployment of code
+* Scalability and Flexibility: The cloud platforms provided are scalable and flexible for deploying applications
+* Collaboration: Working on the cloud allow for DevOps teams to be more collaborative by having centralized storage, shared access to resources
 
 ### How does it benefit the business?
+
+* Combining with the benefits mentioned earlier, allows for businesses to be more **agile**
+  * More flexible to changing needs, which will ultimately lead to faster time to market, and improved customer satisfaction
+  * Cost effectiveness of cloud computing, heavily reduces capital expenditure when compared with onsite infrastructure, where investing into actual hardware is much more expensive
