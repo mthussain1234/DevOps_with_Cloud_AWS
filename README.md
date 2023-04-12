@@ -23,7 +23,7 @@ After copying the file we use `nano <filename>.pem` to create a new `.pem` file 
 
 ![image](nano.jpg)
 
-After you have pasted the correct information, we `ctrl x`, then we press `y` to confirm our selection. After this we press `Enter` to finalize everything and to close the nano window.
+After you have pasted the correct information, we `ctrl x`, then we press `y` to confirm our selection. After this we press `Enter` to finalize everything and to close the nano window. This will save the file withour pasted information within the .ssh folder.
 
 
 
