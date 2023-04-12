@@ -21,7 +21,7 @@ Once recieving the .pem file, we will open it via Notepad to allow us to progres
 
 After copying the file we use `nano <filename>.pem` to create a new `.pem` file where we will copy and paste from the notepad file to our secure `.ssh` directory. All the while deleting the copy in Downloads.  We can see what it will look like once we enter the nano code, and copy and paste the pem file within the nano.
 
-![image](nano.png)
+![image](nano.jpg)
 
 After you have pasted the correct information, we `ctrl x`, then we press `y` to confirm our selection. After this we press `Enter` to finalize everything and to close the nano window.
 
