@@ -8,12 +8,28 @@ On Name, type your chosen name of the instance. Once down click on browse more A
 ![image](https://user-images.githubusercontent.com/129314018/231811598-6aa99fa0-5f8b-49ba-9da3-4b9889eb2bd2.png)
 Once finished scrolling down, click on Ubuntu Server 20.04 as shown above, and keep everything on default and press **Select**
 ![image](https://user-images.githubusercontent.com/129314018/231811830-9365c3e8-bbfa-42be-8ff0-7bfefdde3342.png)
+On the Key Pair Login, search on Key pair name and in our case we typed **tech221** which gave us our RSA key
 ![image](https://user-images.githubusercontent.com/129314018/231828793-417f9319-f387-4be5-8703-308c8bc3f930.png)
+Scrolling down to the security group, change the security group name if needed, make sure allow SSH traffic is from **MY IP** so others apart from the owner cannot access it. Also check allow HTTP traffic from the internet
 ![image](https://user-images.githubusercontent.com/129314018/231814271-86fa9ac5-2ca8-4058-b4bb-435964f33390.png)
+After launching your instance, click on the hyperlinked **Instance ID**, then you will be sent to the page above, check the instance then click connect as marked with the red boxes.
 ![image](https://user-images.githubusercontent.com/129314018/231814448-e8bafd93-22bf-4e8e-8835-8f63246044fe.png)
+We will be greeted by this screen above, copy and store these command lines.
 ![image](https://user-images.githubusercontent.com/129314018/231815076-161c9994-b7c9-4bee-840e-a4763909f6da.png)
+After opening GitBash, navigate to your `.ssh` using `cd .ssh`. After that we use our stored commands from the previous step, `chmod 400 tech221.pem` is inputted and entered, then you input the `ssh -i ...` command.
+
+Then you are prompted if you want to continue, we type `yes`.
 ![image](https://user-images.githubusercontent.com/129314018/231815244-2c255a50-f611-4f75-9031-39eb4f556bdb.png)
+
+From this we can see we are now connected to our Ubuntu VM.
+
+# Install Nginx
+
 ![image](https://user-images.githubusercontent.com/129314018/231816432-d4c7e2c7-b439-4c32-8f3c-1556c82e9acf.png)
+
+#
+
+
 ![image](https://user-images.githubusercontent.com/129314018/231816774-fa463227-5da3-46d2-8c09-650686367d25.png)
 ![image](https://user-images.githubusercontent.com/129314018/231818172-74f4af87-02fc-414f-8d4d-35f7ea3b7bc8.png)
 ![image](https://user-images.githubusercontent.com/129314018/231818823-0c0c5217-5ac3-46d2-9205-692d8734630c.png)
