@@ -33,3 +33,7 @@
 `top` - shows information about system processes (like task manager on windows)
 
 `history` - shows list of commands used in current session
+
+`sort` - sorts lines in alphabetical order
+
+`head -1 <filename>` -  displays the first line of the specified file on the command line.
