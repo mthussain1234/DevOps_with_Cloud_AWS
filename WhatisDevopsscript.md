@@ -16,7 +16,7 @@ Market demands change lightning quick, so DevOps is good for businesses to essen
 
 # Role of Devops
 
-DevOps plays a huge role in delivering this high quality software at fast rates, they do this by automating processes and doing frequent testing. DevOps doing this, increases the businesses agility and as said before lets them be more responsive to market changes and changes in needs.
+DevOps plays a huge role in delivering this high quality software at fast rates, they do this by automating processes and doing frequent testing. DevOps doing this, increases the businesses agility and as said before lets them be more responsive to market changes and changes in needs. Faster release of software also means it can save the business time and money.
 
 With focuses also on continuous delivery and monitoring, DevOps also ensure that software is always up-to-date and always performing at its best.
 
