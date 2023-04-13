@@ -27,9 +27,10 @@ From this we can see we are now connected to our Ubuntu VM.
 
 ![image](https://user-images.githubusercontent.com/129314018/231816432-d4c7e2c7-b439-4c32-8f3c-1556c82e9acf.png)
 
-#
-
-
+To install Nginx, we carry on from the previous step, and we use `sudo apt install nginx` to install nginx. We see the outcome in the above picture. We are then prompted if we want to continue, we press `Y`.
 ![image](https://user-images.githubusercontent.com/129314018/231816774-fa463227-5da3-46d2-8c09-650686367d25.png)
+To check if our nginx has installed properly we use `sudo systemctl status nginx` this will show if the service, being nginx, is in fact running. We can see confirmation of this in the screenshot above.
 ![image](https://user-images.githubusercontent.com/129314018/231818172-74f4af87-02fc-414f-8d4d-35f7ea3b7bc8.png)
+We go back to our instance details on AWS, and after copying the Public `IPv4 address`, we will paste this into our search bar.
 ![image](https://user-images.githubusercontent.com/129314018/231818823-0c0c5217-5ac3-46d2-9205-692d8734630c.png)
+After pasting it into our search bar, we can see it Welcomes us to Nginx, signifying that it is in fact installed properly
