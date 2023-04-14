@@ -1,5 +1,10 @@
 # AMI
 
+![ami_lifecycle](https://user-images.githubusercontent.com/129314018/232039655-cdb9c9c6-b128-4949-9e9a-07677755d4cf.png)
+
+This diagram is explored through the steps below. In the AWS , instances can be created and launched using pre-configured virtual machine images known as AMIs. It includes the operating system, software programmes, and data, as well as all the other information required to begin an instance.
+
+
 ## Creating AMI from current instance
 ![Screenshot_3](https://user-images.githubusercontent.com/129314018/232033278-73c8e20a-1b57-4aca-bcea-241e2f5c75ad.jpg)
 
