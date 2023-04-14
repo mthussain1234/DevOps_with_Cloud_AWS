@@ -3,7 +3,7 @@
 ## Creating AMI from current instance
 ![Screenshot_3](https://user-images.githubusercontent.com/129314018/232033278-73c8e20a-1b57-4aca-bcea-241e2f5c75ad.jpg)
 
-Navigate to *instances* and after checking your instance, hover over actions, on image and templates, and click *create image*
+Navigate to **instances** and after checking your instance, hover over actions, on image and templates, and click **create image**
 
 ![Screenshot_4](https://user-images.githubusercontent.com/129314018/232033290-34a09a8e-31f8-4c75-b7e1-7a35d63308f8.jpg)
 
@@ -13,7 +13,7 @@ Change image name and image description as necessary. Then click create image to
 
 If and when you need to rollback, you will navigate to the AMI tab.
 
-Once created, check the AMI, and click *Launch from AMI*.
+Once created, check the AMI, and click **Launch from AMI**.
 
 ![image](https://user-images.githubusercontent.com/129314018/232035154-5ac3aa56-80c5-49b7-bb1a-6c92384c8eb2.png)
 
@@ -21,7 +21,7 @@ Make a name as necessary for your instance, and due to the AMI, we already have 
 
 ![image](https://user-images.githubusercontent.com/129314018/232035204-6892fdc2-af54-4671-ba0c-12e099bfb2d8.png)
 
-Key Pair name - find the key pair name in our case it was "tech221".
+Key Pair name - find the key pair name in our case it was **tech221**.
 
 ![image](https://user-images.githubusercontent.com/129314018/232035470-f3e33557-372b-4f75-857f-1a430bbd8c82.png)
 
