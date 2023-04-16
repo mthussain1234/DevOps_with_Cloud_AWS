@@ -33,12 +33,19 @@ We can see the IP matches.
 # Make an environment
 
 `printenv`: Prints all environment variables.
+
 `env`: Displays all current environment variables and their values.
+
 `printenv variable_name`: Prints the value of the specified environment variable.
+
 `echo $"variable_name`: Prints the value of the specified environment variable.
+
 `export LAST_NAME=hussain`: Creates a new environment variable called LAST_NAME with a value of hussain.
+
 `ls -a`: Lists all files in the current directory, including hidden files.
+
 `sudo nano .bashrc`: Opens the .bashrc file for editing with elevated privileges using the nano editor.
+
 `source .bashrc`: refreshes the .bashrc file, which applies any changes made to it.
 
 
